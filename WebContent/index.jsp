@@ -8,6 +8,6 @@
 </head>
 <body>
 <h1>Hello World</h1>
-<a href="Git-tutorial/LoginServlet">Login</a>
+<a href="/Git-tutorial/LoginServlet">Login</a>
 </body>
 </html>
