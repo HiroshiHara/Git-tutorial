@@ -56,6 +56,7 @@ public class LoginServlet extends HttpServlet {
 		String id = request.getParameter("id");
 		String password = request.getParameter("password");
 		
+		// プロパティファイルのコンテキストパスを取得
 		ServletContext context = this.getServletContext();
 		String path = context.getRealPath("/WEB-INF/props/admin.properties");
 		

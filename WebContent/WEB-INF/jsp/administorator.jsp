@@ -11,5 +11,6 @@
 <body>
 <h1>LOGIN SUCCESS!</h1>
 <h2>Welcome <%= admin.getId() %></h2>
+<a href="/Git-tutorial/AdministoratorServlet">show databases</a>
 </body>
 </html>
